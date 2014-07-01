@@ -1,0 +1,16 @@
+*.o
+*.lo
+*.la
+*/.deps/*
+*/.libs/*
+*.pc
+*/Makefile/*
+android-projects/output
+Makefile
+libtool
+plugins/audio_opensles/.deps
+plugins/audio_opensles/.libs/
+stamp-h1
+my-android-toolchain*
+config*
+autom4te.cache/requests
